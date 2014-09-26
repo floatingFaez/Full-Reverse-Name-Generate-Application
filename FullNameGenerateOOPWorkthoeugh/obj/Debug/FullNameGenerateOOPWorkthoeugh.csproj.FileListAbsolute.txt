@@ -3,8 +3,9 @@ c:\users\sifat rahman\documents\visual studio 2013\Projects\FullNameGenerateOOPW
 c:\users\sifat rahman\documents\visual studio 2013\Projects\FullNameGenerateOOPWorkthoeugh\FullNameGenerateOOPWorkthoeugh\obj\Debug\FullNameGenerateOOPWorkthoeugh.csprojResolveAssemblyReference.cache
 c:\users\sifat rahman\documents\visual studio 2013\Projects\FullNameGenerateOOPWorkthoeugh\FullNameGenerateOOPWorkthoeugh\obj\Debug\FullNameGenerateOOPWorkthoeugh.exe
 c:\users\sifat rahman\documents\visual studio 2013\Projects\FullNameGenerateOOPWorkthoeugh\FullNameGenerateOOPWorkthoeugh\obj\Debug\FullNameGenerateOOPWorkthoeugh.pdb
-E:\Git\Full-Reverse-Name-Generate-Application\FullNameGenerateOOPWorkthoeugh\obj\Debug\FullNameGenerateOOPWorkthoeugh.exe
-E:\Git\Full-Reverse-Name-Generate-Application\FullNameGenerateOOPWorkthoeugh\obj\Debug\FullNameGenerateOOPWorkthoeugh.pdb
 E:\Git\Full-Reverse-Name-Generate-Application\FullNameGenerateOOPWorkthoeugh\bin\Debug\FullNameGenerateOOPWorkthoeugh.exe
 E:\Git\Full-Reverse-Name-Generate-Application\FullNameGenerateOOPWorkthoeugh\bin\Debug\FullNameGenerateOOPWorkthoeugh.pdb
-E:\Git\Full-Reverse-Name-Generate-Application\FullNameGenerateOOPWorkthoeugh\obj\Debug\FullNameGenerateOOPWorkthoeugh.csprojResolveAssemblyReference.cache
+E:\Git\Full-Reverse-Name-Generate-Application\FullNameGenerateOOPWorkthoeugh\obj\Debug\FullNameGenerateOOPWorkthoeugh.FullNameGenerateApplication.resources
+E:\Git\Full-Reverse-Name-Generate-Application\FullNameGenerateOOPWorkthoeugh\obj\Debug\FullNameGenerateOOPWorkthoeugh.csproj.GenerateResource.Cache
+E:\Git\Full-Reverse-Name-Generate-Application\FullNameGenerateOOPWorkthoeugh\obj\Debug\FullNameGenerateOOPWorkthoeugh.exe
+E:\Git\Full-Reverse-Name-Generate-Application\FullNameGenerateOOPWorkthoeugh\obj\Debug\FullNameGenerateOOPWorkthoeugh.pdb
