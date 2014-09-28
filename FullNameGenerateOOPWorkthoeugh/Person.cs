@@ -8,10 +8,23 @@ namespace FullNameGenerateOOPWorkthoeugh
 {
     class Person
     {
-        public string firstName;
-        public string middleName;
-        public string lastName;
-
+        private string firstName;
+        private string middleName;
+        private string lastName;
+        public string FirstName {
+            set { firstName = value; }
+            get { return firstName; }
+        }
+        public string MiddleName
+        {
+            set { middleName = value; }
+            get { return middleName; }
+        }
+        public string LastName
+        {
+            set { lastName = value; }
+            get { return lastName; }
+        }
         public string GetFullName() 
         {
             return firstName + " " + middleName + " "+ lastName;

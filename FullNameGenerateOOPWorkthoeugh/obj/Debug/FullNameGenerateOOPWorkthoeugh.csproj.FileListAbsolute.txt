@@ -9,3 +9,4 @@ E:\Git\Full-Reverse-Name-Generate-Application\FullNameGenerateOOPWorkthoeugh\obj
 E:\Git\Full-Reverse-Name-Generate-Application\FullNameGenerateOOPWorkthoeugh\obj\Debug\FullNameGenerateOOPWorkthoeugh.csproj.GenerateResource.Cache
 E:\Git\Full-Reverse-Name-Generate-Application\FullNameGenerateOOPWorkthoeugh\obj\Debug\FullNameGenerateOOPWorkthoeugh.exe
 E:\Git\Full-Reverse-Name-Generate-Application\FullNameGenerateOOPWorkthoeugh\obj\Debug\FullNameGenerateOOPWorkthoeugh.pdb
+E:\Git\Full-Reverse-Name-Generate-Application\FullNameGenerateOOPWorkthoeugh\obj\Debug\FullNameGenerateOOPWorkthoeugh.csprojResolveAssemblyReference.cache

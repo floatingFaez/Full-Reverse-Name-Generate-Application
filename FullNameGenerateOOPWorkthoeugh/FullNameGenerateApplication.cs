@@ -10,8 +10,10 @@ using System.Windows.Forms;
 
 namespace FullNameGenerateOOPWorkthoeugh
 {
+
     public partial class FullNameGenerateApplication : Form
     {
+        private Person aPerson;
         public FullNameGenerateApplication()
         {
             InitializeComponent();
@@ -19,11 +21,15 @@ namespace FullNameGenerateOOPWorkthoeugh
 
         private void showButton_Click(object sender, EventArgs e)
         {
-            Person aPerson = new Person();
+            aPerson = new Person();
 
-            aPerson.firstName = firstNameTextBox.Text;
-            aPerson.middleName = middleNameTextBox.Text;
-            aPerson.lastName = lastNameTextBox.Text;
+            aPerson.FirstName = firstNameTextBox.Text;
+            aPerson.MiddleName = middleNameTextBox.Text;
+            aPerson.LastName = lastNameTextBox.Text;
+
+            firstNameTextBox.Text = "";
+            middleNameTextBox.Text = "";
+            lastNameTextBox.Text = "";
 
             fullNameTextBox.Text = aPerson.GetFullName();
             reverseNameTextBox.Text = aPerson.GetFullReverseName();
